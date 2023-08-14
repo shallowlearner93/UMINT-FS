@@ -111,33 +111,6 @@ Markers = umint.UMINT.Find_Markers(data, y, encoder, cell_type, num_fs)
 ```
 The `cell_type` must be present in the array `y`. 
 
-# Authors' Information
---------------------
-Chayan Maitra
-Machine Intelligence Unit, Indian Statistical Institute,
-203 Barrackpore Trunk Road, Kolkata 700108, India
-E-mail: chayanmath25_r@isical.ac.in
-
-Dibyendu B. Seal
-Tatras Data Services Pvt. Ltd., E64, Vasant Marg, Vasant Vihar,
-New Delhi 110057, India.
-E-mail: dbsakc@caluniv.ac.in
-
-Vivek Das
-Novo Nordisk A/S,
-Novo Nordisk Park 1, 2760 M ̊aløv, Denmark
-E-mail: vivekdas.0687@gmail.com
-
-Yevgeniy Vorobeychik
-Computer Science and Engineering, Washington University in St. Louis,
-1 Brookings Drive, Saint Louis MO 63130, USA
-E-mail: yvorobeychik@wustl.edu
-
-Rajat K. De
-Machine Intelligence Unit, Indian Statistical Institute,
-203 Barrackpore Trunk Road, Kolkata 700108, India
-E-mail: rajat@isical.ac.in
-
 
 # Dataset Source
 --------------

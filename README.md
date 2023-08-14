@@ -1,10 +1,6 @@
 # UMINT-FS
 Maitra, C., Seal, D.B., Das, V., Vorobeychik, Y. and De, R.K., 2023. **UMINT-FS: UMINT-guided Feature Selection for multi-omics datasets**.
-Submitted in BIBM-2023
-Extention of our earlier work (**UMINT**), which has been published at Frontiers in Molecular Biosciences.
-
-Maitra, C., Seal, D.B., Das, V. and De, R.K., Unsupervised neural network for single cell Multi-omics INTegration (UMINT): An application to health and disease. Frontiers in Molecular Biosciences, 10, p.335.
-https://www.frontiersin.org/articles/10.3389/fmolb.2023.1184748/full
+Extention of our earlier work **UMINT** [[1]](#1)
 
 ## Architectures for UMINT-guided feature selection techniques. 
 ![UMINTandUMINTFS](https://github.com/shallowlearner93/UMINT-FS/assets/113589317/c71915b0-7dff-4234-99d4-d3013b46f37e)
@@ -147,3 +143,8 @@ E-mail: rajat@isical.ac.in
 --------------
 The datasets used in this work can be downloaded from the following link.
 https://doi.org/10.5281/zenodo.7723340
+
+# References
+--------------
+<a id="1">[1]</a>
+Maitra, C., Seal, D.B., Das, V. and De, R.K., 2023. Unsupervised neural network for single cell Multi-omics INTegration (UMINT): an application to health and disease. Frontiers in Molecular Biosciences, 10, p.1184748.
